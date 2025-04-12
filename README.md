@@ -83,7 +83,7 @@ Photovoltaic (PV) systems are a cornerstone of sustainable energy solutions. Yet
 
 | Input Image | Detection Output |
 |-------------|------------------|
-| ![Input](assets/INPUT.jpg) | ![Output](assets/OUTPUT.png) |
+| ![Input](Result/INPUT.jpg) | ![Output](Result/OUTPUT.png) |
 
 ### 🔁 Sample curl Request
 
