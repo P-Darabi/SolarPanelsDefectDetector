@@ -23,12 +23,19 @@ Photovoltaic (PV) systems are a cornerstone of sustainable energy solutions. Yet
 - **Resolution:** 640×640  
 - **Color Format:** Grayscale
 
+📁 **Access Dataset on Kaggle:**  
+🔗 [https://www.kaggle.com/pkdarabi](https://www.kaggle.com/pkdarabi)
+
+---
+
 ### 🔄 Augmentation Techniques
 
 - 50% probability of horizontal and vertical flips  
 - Random rotations at 90° angles  
 - Shear transformations (±15°)  
 - Adjustments to hue, brightness, and exposure (±15%)
+
+---
 
 ### 🧪 Fault Categories
 
@@ -145,5 +152,14 @@ solar-anomaly-api/
 ## 📜 License Info
 
 Licensed under the MIT License — open for both academic and commercial use, with proper attribution.
+
+---
+
+## 📚 Related Research
+
+📘 **ResearchGate Case Study**:  
+🔗 [https://www.researchgate.net/profile/Parisa-Darabi](https://www.researchgate.net/profile/Parisa-Darabi)
+
+🧠 This project is also featured as a research-backed case study for solar anomaly detection using AI and thermal imagery.
 
 ---
