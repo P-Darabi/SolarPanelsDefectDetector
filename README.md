@@ -131,13 +131,19 @@ docker-compose up --build
 
 ```
 solar-anomaly-api/
+├── Results
+    ├── INPUT.JPG
+    ├── OUTPUT.PNG
+├── ThermalDetector
+    ├── Th_G_v9.pt
 ├── api.py
 ├── predictor.py
-├── model_loader.py
-├── Th_G_v9.pt
+├── model_loader.py 
 ├── requirements.txt
 ├── Dockerfile
 ├── docker-compose.yml
+├── .gitignore
+    ├── LICENSE
 └── README.md
 ```
 
