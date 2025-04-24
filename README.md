@@ -143,7 +143,7 @@ solar-anomaly-api/
 ├── Dockerfile
 ├── docker-compose.yml
 ├── .gitignore
-    ├── LICENSE
+├── LICENSE
 └── README.md
 ```
 
