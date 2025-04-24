@@ -21,7 +21,6 @@ Pipfile.lock
 .vscode/
 
 # YOLO Weights
-*.pt
 
 # Output images
 *.jpg

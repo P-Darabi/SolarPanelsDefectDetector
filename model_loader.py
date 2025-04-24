@@ -1,3 +1,3 @@
 from ultralytics import YOLO
 
-model = YOLO("Th_G_v9.pt")
+model = YOLO("ThermalDetector/Th_G_v9.pt")
